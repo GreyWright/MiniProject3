@@ -1,0 +1,6 @@
+Field;PercentAgree_Pre;PercentAgree_Post;CohenKappa_Pre;CohenKappa_Post;NumDisagreements;NumResolved;MeanResolutionTime_min;Notes
+HasRecovered;100.0;100.0;1.0;1.0;0;0;NA;We matched on all ten. Two used N/A because the projects had no qualifying gap.
+WhyRecovered;100.0;100.0;NA;NA;0;0;NA;The wording was different in places, but the explanations agreed.
+ActivityPattern;50.0;100.0;0.153;1.0;5;5;NA;Five labels differed. We compared the CSV with the notebook and agreed on the final patterns.
+Currentstatus;70.0;100.0;0.4;1.0;3;3;NA;Three differences came down to using the September 30, 2025 cutoff consistently.
+RecentThemes;0.0;100.0;NA;NA;10;10;NA;"All ten author entries were originally blank, so 0.0% pre-agreement reflects missing values. After Hari filled them in, eight matched; we resolved the other two over Discord."
